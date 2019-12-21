@@ -6,5 +6,7 @@ Classification of Anuran species using Anuran Calls Dataset by implementing Supp
 Here we have tried to solve a multi-class and multi-label problem by training a classifier for each label and implement One-vs-all approach.
 
 Evaluation Metrics:
-Exact match
-Hamming Score/loss methods
+
+-Exact match
+
+-Hamming Score/loss methods
